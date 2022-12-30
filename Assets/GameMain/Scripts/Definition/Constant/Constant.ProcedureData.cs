@@ -5,9 +5,7 @@
 // Feedback: mailto:ellan@gameframework.cn
 //------------------------------------------------------------
 
-namespace 
-
-
+namespace Xuan
 {
     public static partial class Constant
     {
